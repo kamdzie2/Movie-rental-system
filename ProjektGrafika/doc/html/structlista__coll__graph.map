@@ -1,0 +1,4 @@
+<map id="lista" name="lista">
+<area shape="rect" id="node1" title="Baza filmów." alt="" coords="8,95,55,121"/>
+<area shape="rect" id="node2" href="$struct_dane.html" title="Baza filmów." alt="" coords="5,5,57,32"/>
+</map>

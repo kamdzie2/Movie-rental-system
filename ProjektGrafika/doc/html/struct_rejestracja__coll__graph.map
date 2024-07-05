@@ -1,0 +1,5 @@
+<map id="Rejestracja" name="Rejestracja">
+<area shape="rect" id="node1" title="Sprawdzenie parametrów rejestracji." alt="" coords="71,95,158,121"/>
+<area shape="rect" id="node2" href="$struct_haslo__rejestr.html" title="Sprawdzenie parametrów rejestracji&#45;haslo." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node3" href="$struct_login__rejestr.html" title="Sprawdzenie parametrów rejestracji&#45;login." alt="" coords="128,5,224,32"/>
+</map>
